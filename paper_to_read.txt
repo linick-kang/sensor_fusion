@@ -1,0 +1,13 @@
+Review & Summary
+1. Multiple-robot Simultaneous Localization and Mapping - A Review
+2. Sensor data fusion: state of the art survey
+3. Multisensor Fusion and Integration: Theories, Applications, and its Perspectives
+
+Thesis
+1. [MT]Reliable navigation for autonomous vehicles in connected vehicle environments by using multi-agent sensor fusion
+2. [MIT-DT]A comparison of data association techniques for simultaneous localization and mapping
+3. [MT]Heterogeneous Sensor Fusion - verification and optimization
+
+Important Paper
+
+Helpful Tutorial
