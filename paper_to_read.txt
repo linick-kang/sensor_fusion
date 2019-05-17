@@ -1,3 +1,13 @@
+NEW materials
+基于概率假设密度滤波方法的多目标跟踪技术综述
+Bernoulli filter basics:
+https://zhuanlan.zhihu.com/p/36744303
+
+paper
+A multi-sensor multi-Bernoulli filter:
+https://arxiv.org/pdf/1609.05108.pdf
+
+
 Review & Summary
 1. Multiple-robot Simultaneous Localization and Mapping - A Review
 2. Sensor data fusion: state of the art survey
@@ -11,3 +21,11 @@ Thesis
 Important Paper
 
 Helpful Tutorial
+Bernoulli filter:
+http://ba-ngu.vo-au.com/vo/RVVF_Bernoulli_TSP13.pdf
+
+
+Matlab codes
+http://ba-tuong.vo-au.com/codes.html
+
+
