@@ -1,0 +1,13 @@
+KF related site:
+
+some knowledge
+basically, KF is enough. When non-linearity becomes serious, then try EKF -> UKF (unscented?), at last PF
+
+https://home.wlu.edu/~levys/kalman_tutorial/
+http://www0.cs.ucl.ac.uk/staff/gridgway/kalman/kalman_example/Kalman_Example.html
+https://stackoverflow.com/questions/13901997/kalman-2d-filter-in-python
+https://www.linkedin.com/pulse/2d-object-tracking-tutorial-kalman-filter-matlab-code-al-ahdab
+
+
+MIT PF material
+http://web.mit.edu/16.412j/www/html/Advanced%20lectures/Slides/Hsaio_plinval_miller_ParticleFiltersPrint.pdf

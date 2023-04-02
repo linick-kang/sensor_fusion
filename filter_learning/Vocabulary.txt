@@ -1,0 +1,163 @@
+
+terse 简洁的
+() parentheses, [] brackets or square brackets, {} braces or curly braces
+snippet 小片，断片，IT用語としては、プログラミング言語の中で簡単に切り貼りして再利用できる部分のこと
+
+breadth 幅 ⇔ depth
+magenta 紫红色
+pivotal 極めて重要な
+
+abscissa 横座標 ⇔ ordinate 縦座標
+bearing measurement: In navigation, bearing is the horizontal angle between the direction of an object and another object, or between it and that of true north.
+trigonometric 三角法的
+
+stymie　窮境、妨害
+caveat /kavi a:t/ 警告、注意
+laid back  relaxed(life, enviroment, music)
+
+tandem, or in tandem, is an arrangement in which a team of machines, animals or people are lined up one behind another, all facing in the same direction eg.前后两人坐的自行车，竖直同列的两匹马
+quantile 分位数
+distill 蒸馏，抽出
+
+An elevator pitch, elevator speech, or elevator statement is a short description of an idea, product, company, or oneself that explains the concept in a way such that any listener can understand it in a short period of time. 
+put up with: to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly, 忍耐
+
+word of mouth 口伝えの、口コミ
+asterisk = *
+wieldy 扱いやすい
+
+consolidated 連結
+take it up with sb: 跟某人谈谈，让某人看一下?
+tenure 在职期间，tenure-track 终身雇用（教职）
+
+fraternization: to spend time with someone in a friendly way especially when it is considered wrong or improper to do so.
+ostensible たてまえの、うわべだけの、表向きの
+hoist crane 悬挂型起重机
+
+terminology 用語
+a posteriori 后天的，经验的
+intervention　介入
+
+rigorous　厳しい、厳密な
+multivariate　多変量
+Cumulative distribution function (CDF)　累積分布関数
+
+vagueness 曖昧さ
+Aleatory uncertainty 固有不确定性; also known as statistical uncertainty
+Epistemic uncertainty 认知的不确定性; also known as systematic uncertainty
+
+surrogate 代理人
+Perturbation theory, mathematical methods that give approximate solutions to problems that cannot be solved exactly
+implicit 暗黙的 <> explicit 明示的
+directive 指向的->directivity 指向性
+
+infotainment = information + entertainment 
+kerb Weight= curb weight 空重重量とは、無貨物・満タン燃料・ドライバー(75kg)の重量を指します。 
+slate (米，被动)立作候补，预定 eg. He is slated to be the next chairman. The election has been slated for October.
+
+retrodiction: A form of "prediction" that deals with the past rather than the future, sometimes useful in testing theories whose actual predictions are too long-term to be of immediate use.
+
+centroid 重心
+leeway 余裕、ゆとり
+underpin 支える
+polynomial 多项式
+
+trivial 微不足道的	
+extent: area or length, amount. eg. the full extent of Manhattan 曼哈顿全景
+congenial: pleasing or liked on account of having qualities or interests that are similar to one's own.　友善的，令人愉悦的
+stochastic: having a random probability distribution or pattern that may be analysed statistically but may not be predicted precisely.
+stochastic 推測の、確率的
+
+interoperability: the ability of computer systems or software to exchange and make use of information.
+
+guard rail, gravel, lawns: 防护栏，石子路，草坪
+in-phase 同步，同相位 <> out-of-phase
+
+synthetic aperture radar; SAR 合成開口レーダー
+Frequency Modulated Continuous Wave radar, FM-CWレーダー
+Fast-Chirp Modulation FCM方式(improved FMCM for pedestrian and cyclist come with different speed)
+Homodyne detection:
+It is a method of extracting information encoded as modulation of the phase and/or frequency of an oscillating signal, by comparing that signal with a standard oscillation that would be identical to the signal if it carried null information. Homodyne detection is more readily applicable to velocity sensing.
+simultaneous localization and mapping (SLAM)
+
+azimuth 方位角
+antenna = ANT
+
+phase locked loop (PLL) 
+hardware accelerator (HWA)
+automatic gain control (AGC)
+Space Time Adaptive Processing (STAP)
+
+PCS：Pre-Crash Safety
+ACC：Adaptive Cruise Control
+FSRA：Full Speed Range ACC
+BSM：Blind Spot Monitoring
+CVW：Crossing Vehicle Warning
+RCTA：Rear Cross Traffic Alert
+
+DSS: Drive support system
+
+Controller Area Network (CAN):
+It is a robust vehicle bus standard designed to allow microcontrollers and devices to communicate with each other in applications without a host computer.
+Local Interconnect Network (LIN)
+
+thrust 推力
+clutter 乱雑
+
+Radar cross-section (RCS):
+It is a measure of how detectable an object is with a radar. A larger RCS indicates that an object is more easily detected.
+An object reflects a limited amount of radar energy back to the source. The factors that influence this include:
+the material of which the target is made;
+the absolute size of the target;
+the relative size of the target (in relation to the wavelength of the illuminating radar);
+the incident angle (angle at which the radar beam hits a particular portion of target which depends upon shape of target and its orientation to the radar source);
+the reflected angle (angle at which the reflected beam leaves the part of the target hit, it depends upon incident angle);
+the polarization of transmitted and the received radiation in respect to the orientation of the target
+
+Pulse repetition frequency (PRF)
+equiphase surface 等位相面
+steradian 立体角の角度
+trilateration 三辺測量
+triangulation 三角測量
+
+
+primary safety, secondary safty, tertiary safty.
+fatigue　疲労
+envisage　想定、…を心に描く
+incentive　動機、刺激
+manoeuvre = maneuver 巧妙な処置、巧みな操縦、機動
+head-on collision 正面衝突
+
+whiplash protection 颈部冲击保护
+
+日本語		アメリカ英語	イギリス英語
+ボンネット	hood		bonnet
+トランク	trunk		boot
+アクセル	gas pedal	accelerator
+ウインカー	blinkers	winkers, indicator
+ナンバープレートlicense plate	number plate
+
+
+sequential-lobing 序列波束 (used in radar tracking)
+orthogonal 直交
+in line arrangement ⇔ staggered arrangement ジグザグ状/互い違いの配列
+
+anecdotal
+(of an account) not necessarily true or reliable, because based on personal accounts rather than facts or research.
+eg.‘while there was much anecdotal evidence there was little hard fact’
+
+dead-reckoning デットレコニング(DR)とはホイールエンコーダや慣性センサなどを利用した相対的自己位置推定法のことを指します
+interpolation 插值
+eccentricity 离心率
+tertiary education 第三次教育（中等学校后的大学等）
+
+A consortium is an association of two or more individuals, companies, organizations or governments (or any combination of these entities) with the objective of participating in a common activity or pooling their resources for achieving a common goal.
+pertinent: relevant or applicable to a particular matter; apposite. eg. "she asked me a lot of very pertinent questions"
+
+diagonal matrix 対角行列
+constructive interference 增益性的干涉
+destructive interference 消极性的干涉
+
+raster graphics = bitmap 位图
+
+A roundabout, also called a traffic circle, road circle, rotary, rotunda or island, is a type of circular intersection or junction in which road traffic flows almost continuously in one direction around a central island. 
